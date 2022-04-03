@@ -1,0 +1,11 @@
+<resources>
+<string name="asset_statements">
+  [{
+    \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+    \"target\": {
+      \"namespace\": \"android_app\",
+      \"site\": \"https://www.bettybets.net/\"
+    }
+  }]
+</string>
+</resources>
